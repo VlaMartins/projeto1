@@ -16,7 +16,7 @@ h1{
 /*xxxxxxxxxxxxxxxxxx BENEFICIOS xxxxxxxxxxxxxxxxxx*/
 .beneficios{
     background: orange;
-	padding: 30px;
+	padding: 20px;
 }
 
 h2{
@@ -44,4 +44,5 @@ ul{
 }
 .imgbeneficios{
     width: 40%;
+    margin-left: 15%;
 }
