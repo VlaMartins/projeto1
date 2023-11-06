@@ -1,5 +1,5 @@
 .principal{
-	background: #241212;
+	background: #261414;
 	padding: 30px;
     color:  #F2EAC2;
     margin: 5px;
@@ -28,7 +28,8 @@ body{
 }
 
 h2{
-    color: #F2EAC2  ;
+    background-color: black;
+    color: #F2EAC2;
 }
 
 h3{
