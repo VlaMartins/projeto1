@@ -1,13 +1,15 @@
 .principal{
 	background: #241212;
 	padding: 30px;
-    color:  #F2EAC2;;
+    color:  #F2EAC2;
+    margin: 0;
 }
 
 h1{
     text-align: center;
     background-color: black;
     color: #F2EAC2;
+    margin: 0;
 }
 
 #banner{
