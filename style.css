@@ -38,4 +38,5 @@ li{
 
 .imgbeneficios{
     width: 30%;
+    display: flex;
 }
