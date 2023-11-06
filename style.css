@@ -27,12 +27,13 @@ body{
 }
 
 h2{
-    background-color: black;
-    color: #F2EAC2;
+    background-color: #F2EAC2;
+    color: #261414 ;
 }
 
 h3{
-    color: #8C3C1F;
+    background-color: black;
+    color: #F2EAC2;
     text-align: center;
     line-height: 1em;
 }
