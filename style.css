@@ -42,7 +42,6 @@ li{
 }
 
 ul{
-    display: flex;
     vertical-align: top;
     width: 30%;
 }
