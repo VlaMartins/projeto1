@@ -44,4 +44,6 @@ ul{
 }
 .imgbeneficios{
     width: 40%;
+    margin: auto;
+    display: flex;
 }
