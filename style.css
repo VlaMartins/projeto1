@@ -16,7 +16,7 @@ h1{
 /*xxxxxxxxxxxxxxxxxx BENEFICIOS xxxxxxxxxxxxxxxxxx*/
 .beneficios{
     background: orange;
-	padding: 10px;
+	padding: 20px;
 }
 
 h2{
@@ -34,14 +34,13 @@ li{
     line-height: 1.5;
     font-family: Calibri;
     font-size: 16px;
-
 }
 
 ul{
-    display: inline-block;
+	display: inline-block;
 	vertical-align: top;
-	width: 10%;
-	margin-right: 10%;
+	width: 20%;
+	margin-right: 15%;
 }
 .imgbeneficios{
     width: 40%;
