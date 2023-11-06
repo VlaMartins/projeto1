@@ -31,7 +31,7 @@ p{
 }
 
 .lista{
-    float: left;
+    display: inline-block;
     width: 50%;
 }
 
@@ -47,11 +47,9 @@ ul{
 }
 
 .imgdireita{
-    float: right;
+    display: inline-block;
 }
 
 .imgbeneficios{
     width: 50%;
-    margin: auto;
-    display: flex;
 }
