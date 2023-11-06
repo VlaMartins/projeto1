@@ -36,7 +36,12 @@ li{
     font-size: 16px;
 }
 
+ul{
+    display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
 .imgbeneficios{
-    width: 30%;
-    display: flex;
+    width: 40%;
 }
