@@ -1,3 +1,8 @@
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
 h1{
     text-align: center;
     background-color: black;
@@ -6,6 +11,17 @@ h1{
 
 #banner{
     width: 100%;
+}
+
+/*xxxxxxxxxxxxxxxxxx BENEFICIOS xxxxxxxxxxxxxxxxxx*/
+.beneficios{
+    background: orange;
+	padding: 30px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(80, 42, 42);
 }
 
 p{
@@ -26,22 +42,11 @@ ul{
     width: 30%;
 }
 
-h2{
-    text-align: center;
-    color: rgb(80, 42, 42);
-}
+
+
 
 .imgdireita{
     width: 50%;
     margin-left: 20px;
 }
 
-.principal{
-	background: #CCCCCC;
-	padding: 30px;
-}
-
-.beneficios{
-    background: orange;
-	padding: 30px;
-}
