@@ -38,7 +38,7 @@ li{
 
 ul{
 	display: inline-block;
-	vertical-align: middle;
+	vertical-align: -webkit-baseline-middle;
 	width: 20%;
 	margin-right: 15%;
 }
