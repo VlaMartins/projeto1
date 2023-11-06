@@ -17,6 +17,7 @@ p{
 ul{
     display: inline-block;
     vertical-align: top;
+    width: 30%;
 }
 
 li{
