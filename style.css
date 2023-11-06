@@ -32,7 +32,7 @@ p{
 
 .lista{
     float: left;
-    width: 300px;
+    width: 50%;
 }
 
 li{
@@ -45,7 +45,6 @@ ul{
     display: inline-block;
     vertical-align: top;
     width: 30%;
-    position: relative;
 }
 
 .imgdireita{
