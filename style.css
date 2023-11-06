@@ -16,6 +16,10 @@ h1{
     width: 100%;
 }
 
+body{
+    background: #0e0707;
+}
+
 /*xxxxxxxxxxxxxxxxxx BENEFICIOS xxxxxxxxxxxxxxxxxx*/
 .beneficios{
     background: #F2EAC2 ;
