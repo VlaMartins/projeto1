@@ -39,11 +39,10 @@ li{
     line-height: 1.5;
     font-family: Calibri;
     font-size: 16px;
-    display: inline-block;
 }
 
 ul{
-    display: inline-block;
+    display: flex;
     vertical-align: top;
     width: 30%;
 }
