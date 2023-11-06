@@ -16,7 +16,15 @@ h1{
 /*xxxxxxxxxxxxxxxxxx BENEFICIOS xxxxxxxxxxxxxxxxxx*/
 .beneficios{
     background: orange;
-	padding: 30px;
+	padding: 10px;
+}
+
+.lista{
+    float: left;
+}
+
+.imgdireita{
+    float: right;
 }
 
 h2{
@@ -41,10 +49,5 @@ ul{
     vertical-align: top;
     width: 30%;
     position: relative;
-}
-
-.imgdireita{
-    width: 50%;
-    margin-left: 20px;
 }
 
