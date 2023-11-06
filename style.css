@@ -49,8 +49,10 @@ ul{
 
 .imgdireita{
     float: right;
+}
+
+.imgbeneficios{
     width: 10%;
     margin: auto;
     display: flex;
 }
-
