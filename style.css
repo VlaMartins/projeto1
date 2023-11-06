@@ -19,14 +19,6 @@ h1{
 	padding: 10px;
 }
 
-.lista{
-    float: left;
-}
-
-.imgdireita{
-    float: right;
-}
-
 h2{
     text-align: center;
     color: rgb(80, 42, 42);
@@ -36,6 +28,10 @@ p{
     line-height: 1.5;
     font-family: Calibri;
     font-size: 16px;
+}
+
+.lista{
+    float: left;
 }
 
 li{
@@ -49,5 +45,9 @@ ul{
     vertical-align: top;
     width: 30%;
     position: relative;
+}
+
+.imgdireita{
+    float: right;
 }
 
