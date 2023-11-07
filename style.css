@@ -25,6 +25,9 @@ body{
 .beneficios{
     background: #F2EAC2 ;
 	padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 h2{
